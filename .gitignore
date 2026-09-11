@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+docs/*
+
+# Excel temporary files
+~$*.xlsx
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor temporary files
+*.swp
+*.tmp
