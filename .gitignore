@@ -4,6 +4,7 @@
 .LSOverride
 ._*
 docs/*
+README.md
 
 # Excel temporary files
 ~$*.xlsx
