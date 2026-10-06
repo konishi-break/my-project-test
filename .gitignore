@@ -4,6 +4,7 @@
 .LSOverride
 ._*
 docs/*
+img/*
 README.md
 
 # Excel temporary files
